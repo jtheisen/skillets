@@ -1,0 +1,1 @@
+# .NET styles and guidelines
