@@ -8,8 +8,8 @@ https://api.github.com/repos/jtheisen/skillets/contents/skillets
 Individual skillet:
 https://raw.githubusercontent.com/jtheisen/skillets/refs/heads/main/skillets/<name>.md
 
-This file as the url:
-
+This file has the url:
+https://raw.githubusercontent.com/jtheisen/skillets/refs/heads/main/root.md
 
 You should download some of these and maintain them according to the following rules.
 
