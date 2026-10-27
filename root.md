@@ -47,7 +47,7 @@ as the upstream version of this file.
 
 Unknown words are skillet names mean you're asked to bring in the respective skillets.
 
-### Boostrap
+### Bootstrap
 
 When you have no recollection of anything about "skillets", you're in bootstrap. Treat this
 file as a skillet named "root" in agentsmd mode and update the respective AGENTS.md so
